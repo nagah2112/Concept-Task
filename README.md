@@ -27,6 +27,7 @@ Lowest step count: 4500
 Average step count: 7340.00
 Steps sorted in descending order: [12000, 9500, 8200, 8000, 7500, 6000, 5600, 5000, 4800, 4500]
 ```
+[problem 1](https://drive.google.com/file/d/1frmF1bW1DbztVSq4GvErVa7_rZsPS3je/view?usp=sharing) - click to show problem 1
 
 # library_analysis Function
 ## Description
@@ -66,6 +67,7 @@ The Hobbit: 15 days
 1984: 15 days
 The Catcher in the Rye: 6 days
 ```
+[problem 2](https://drive.google.com/file/d/1Cfh_ZvZtoHDQ2_2saeuj4N7fhb-A5qkr/view?usp=drive_link) - click to show problem 2
 # Word Scramble Game README
 ## Overview
 The Word Scramble Game is a simple Python program that allows users to guess the original word from a scrambled version. It provides players with a fun and interactive way to practice problem-solving and guessing skills.
@@ -89,4 +91,4 @@ Incorrect! Try again. You have 4 attempts left.
 Enter your guess: apple
 Congratulations! You guessed the correct word!
 ```
-[problem 3] (https://drive.google.com/file/d/1Cfh_ZvZtoHDQ2_2saeuj4N7fhb-A5qkr/view?usp=sharing) - click to show problem 3
+[problem 3](https://drive.google.com/file/d/1Cfh_ZvZtoHDQ2_2saeuj4N7fhb-A5qkr/view?usp=sharing) - click to show problem 3
